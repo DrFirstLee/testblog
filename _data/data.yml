@@ -33,25 +33,28 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Korean
           level: Native
 
-        - idiom: French
+        - idiom: English
+          level: Professional
+
+        - idiom: Chinese
           level: Professional
 
         - idiom: Spanish
-          level: Professional
+          level: Basic
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Suba
           link:
 
         - item: Snowboarding
           link:
 
-        - item: Cooking
+        - item: Programming
           link:
 
 career-profile:
